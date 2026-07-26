@@ -1,0 +1,281 @@
+/* ================================
+   CARRIE - Global Styles
+================================ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+
+    --primary: #2563EB;
+    --primary-dark: #1E40AF;
+
+    --background: #F4F7FC;
+
+    --white: #FFFFFF;
+
+    --text: #1F2937;
+
+    --light-text: #6B7280;
+
+    --border: #E5E7EB;
+
+    --shadow: 0 10px 30px rgba(0,0,0,0.08);
+
+    --radius: 18px;
+
+}
+
+body {
+
+    font-family: "Inter", sans-serif;
+
+    background: var(--background);
+
+    color: var(--text);
+
+    display: flex;
+
+    flex-direction: column;
+
+    height: 100vh;
+
+}
+
+/* ================================
+   Header
+================================ */
+
+header {
+
+    height: 80px;
+
+    background: var(--white);
+
+    box-shadow: var(--shadow);
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 0 35px;
+
+    z-index: 100;
+
+}
+
+.logo {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 15px;
+
+}
+
+.logo h1 {
+
+    font-size: 28px;
+
+    color: var(--primary);
+
+}
+
+.logo p {
+
+    color: var(--light-text);
+
+    font-size: 14px;
+
+}
+
+.logo {
+
+    font-size: 34px;
+
+}
+
+/* ================================
+   Status
+================================ */
+
+.status {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 8px;
+
+    font-size: 15px;
+
+    color: var(--light-text);
+
+}
+
+.dot {
+
+    width: 10px;
+
+    height: 10px;
+
+    background: #22C55E;
+
+    border-radius: 50%;
+
+}
+
+/* ================================
+   Main
+================================ */
+
+main {
+
+    flex: 1;
+
+    display: flex;
+
+    flex-direction: column;
+
+    overflow: hidden;
+
+    padding: 25px;
+
+}
+
+/* ================================
+   Welcome Card
+================================ */
+
+.welcome-card {
+
+    background: linear-gradient(
+        135deg,
+        #2563EB,
+        #1E40AF
+    );
+
+    color: white;
+
+    border-radius: var(--radius);
+
+    padding: 28px;
+
+    box-shadow: var(--shadow);
+
+    margin-bottom: 25px;
+
+}
+
+.welcome-card h2 {
+
+    margin-bottom: 12px;
+
+}
+
+.welcome-card p {
+
+    margin-bottom: 20px;
+
+}
+
+.features {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 12px;
+
+}
+
+.features span {
+
+    background: rgba(255,255,255,.15);
+
+    padding: 8px 16px;
+
+    border-radius: 25px;
+
+    font-size: 14px;
+
+}
+
+/* ================================
+   Footer
+================================ */
+
+footer {
+
+    background: white;
+
+    display: flex;
+
+    gap: 15px;
+
+    padding: 20px;
+
+    border-top: 1px solid var(--border);
+
+}
+
+footer input {
+
+    flex: 1;
+
+    border: 2px solid var(--border);
+
+    border-radius: 30px;
+
+    padding: 16px 22px;
+
+    font-size: 16px;
+
+    outline: none;
+
+    transition: .3s;
+
+}
+
+footer input:focus {
+
+    border-color: var(--primary);
+
+}
+
+footer button {
+
+    width: 60px;
+
+    border: none;
+
+    border-radius: 50%;
+
+    background: var(--primary);
+
+    color: white;
+
+    cursor: pointer;
+
+    font-size: 22px;
+
+    transition: .3s;
+
+}
+
+footer button:hover {
+
+    background: var(--primary-dark);
+
+    transform: scale(1.05);
+
+}
+main.chat-mode .chat-box{
+    height: calc(100vh - 180px);
+}

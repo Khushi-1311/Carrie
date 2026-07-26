@@ -1,0 +1,60 @@
+[
+    {
+        "intent": "greeting",
+        "keywords": [
+            "hello",
+            "hi",
+            "hey"
+        ],
+        "answer": "Hello! I am CARRIE. How can I help you today?"
+    },
+    {
+        "intent": "fees",
+        "keywords": [
+            "fee",
+            "fees",
+            "tuition",
+            "btech fee",
+            "college fee"
+        ],
+        "answer": "The annual B.Tech tuition fee for 1st year is ₹60,000 and for other year student is ₹55,000."
+    },
+    {
+        "intent": "admission",
+        "keywords": [
+            "admission",
+            "eligibility",
+            "apply"
+        ],
+        "answer": "Admissions are done through management quota and counselling."
+    },
+{
+    "intent": "hostel",
+    "keywords": [
+        "hostel",
+        "hostel fee",
+        "boys hostel",
+        "girls hostel"
+    ],
+    "answer": "Hostel facilities are not available for students."
+},
+{
+    "intent": "library",
+    "keywords": [
+        "library",
+        "books",
+        "reading room"
+    ],
+    "answer": "The library is open from 9:00 AM to 4:25 PM."
+},
+{
+    "intent": "placements",
+    "keywords": [
+        "placement",
+        "placements",
+        "jobs",
+        "company"
+    ],
+    "answer": "The Training and Placement Cell organizes campus recruitment every year."
+}
+]
