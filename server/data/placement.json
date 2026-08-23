@@ -1,0 +1,22 @@
+[
+  {
+    "category": "placement",
+    "keywords": ["placement", "placements", "campus placement", "campus placements", "job placement", "career"],
+    "response": "The Training and Placement Cell at MGM CoET works to provide students with career opportunities, placement assistance, industry interaction, training, and recruitment support. For complete training and placement information, visit https://mgmnoida.org/training-placement/"
+  },
+  {
+    "category": "placement",
+    "keywords": ["training", "placement training", "career training", "skill development"],
+    "response": "The Training and Placement Cell supports students through training and career-development activities designed to improve their professional skills and prepare them for recruitment opportunities. For more information, visit https://mgmnoida.org/training-placement/"
+  },
+  {
+    "category": "placement",
+    "keywords": ["recruiters", "companies", "placement companies", "recruitment", "hiring"],
+    "response": "MGM CoET's Training and Placement Cell facilitates interaction between students and recruiting organizations and supports the recruitment process for eligible students. For details about recruiters and placement activities, visit https://mgmnoida.org/training-placement/"
+  },
+  {
+    "category": "placement",
+    "keywords": ["placement cell", "training and placement cell", "tpo", "placement office"],
+    "response": "The Training and Placement Cell serves as the link between students and industry by coordinating training, recruitment activities, and placement opportunities. For complete information, visit https://mgmnoida.org/training-placement/"
+  }
+]

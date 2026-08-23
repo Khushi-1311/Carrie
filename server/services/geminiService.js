@@ -15,7 +15,7 @@ const models = [
 async function askGemini(prompt) {
     for (const model of models) {
         let retries = 3;
-        let delayMs = 2000;
+        let delayMs = 1000;
 
         while (retries > 0) {
             try {

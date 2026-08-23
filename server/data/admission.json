@@ -1,0 +1,42 @@
+[
+  {
+    "category": "admission",
+    "keywords": ["courses", "course", "courses offered", "programs", "branches", "btech", "b.tech", "engineering courses"],
+    "response": "MGM's College of Engineering and Technology (MGM CoET), Noida offers B.Tech programs in Computer Science and Engineering with 120 seats, Computer Science and Engineering (Artificial Intelligence & Machine Learning) with 120 seats, Computer Science and Engineering (Data Science) with 60 seats, Robotics and Automation with 60 seats, Mechanical Engineering with 60 seats, Electronics and Communication Engineering with 30 seats, and Civil Engineering with 30 seats. For complete course details, visit https://mgmnoida.org/courses-offered/"
+  },
+  {
+    "category": "admission",
+    "keywords": ["computer science", "cse", "computer science engineering"],
+    "response": "MGM CoET offers B.Tech in Computer Science and Engineering with an intake of 120 seats. For complete course details, visit https://mgmnoida.org/courses-offered/"
+  },
+  {
+    "category": "admission",
+    "keywords": ["artificial intelligence", "ai", "machine learning", "ai ml", "cse ai ml"],
+    "response": "MGM CoET offers B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning) with an intake of 120 seats. For complete course details, visit https://mgmnoida.org/courses-offered/"
+  },
+  {
+    "category": "admission",
+    "keywords": ["data science", "cse data science"],
+    "response": "MGM CoET offers B.Tech in Computer Science and Engineering (Data Science) with an intake of 60 seats. For complete course details, visit https://mgmnoida.org/courses-offered/"
+  },
+  {
+    "category": "admission",
+    "keywords": ["robotics", "automation", "robotics and automation"],
+    "response": "MGM CoET offers B.Tech in Robotics and Automation with an intake of 60 seats. For complete course details, visit https://mgmnoida.org/courses-offered/"
+  },
+  {
+    "category": "admission",
+    "keywords": ["mechanical", "mechanical engineering"],
+    "response": "MGM CoET offers B.Tech in Mechanical Engineering with an intake of 60 seats. For complete course details, visit https://mgmnoida.org/courses-offered/"
+  },
+  {
+    "category": "admission",
+    "keywords": ["electronics", "communication", "ece", "electronics and communication"],
+    "response": "MGM CoET offers B.Tech in Electronics and Communication Engineering with an intake of 30 seats. For complete course details, visit https://mgmnoida.org/courses-offered/"
+  },
+  {
+    "category": "admission",
+    "keywords": ["civil", "civil engineering"],
+    "response": "MGM CoET offers B.Tech in Civil Engineering with an intake of 30 seats. For complete course details, visit https://mgmnoida.org/courses-offered/"
+  }
+]

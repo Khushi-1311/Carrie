@@ -1,0 +1,32 @@
+[
+  {
+    "category": "greetings",
+    "keywords": ["hi", "hello", "hey"],
+    "response": "Hello! How can I help you?"
+  },
+  {
+    "category": "greetings",
+    "keywords": ["how are you", "how r you", "how are u"],
+    "response": "I'm doing great! How can I help you?"
+  },
+  {
+    "category": "greetings",
+    "keywords": ["thank you", "thanks", "thanku", "thx"],
+    "response": "You're welcome!"
+  },
+  {
+    "category": "greetings",
+    "keywords": ["good morning"],
+    "response": "Good morning! How can I help you?"
+  },
+  {
+    "category": "greetings",
+    "keywords": ["good afternoon"],
+    "response": "Good afternoon! How can I help you?"
+  },
+  {
+    "category": "greetings",
+    "keywords": ["good evening"],
+    "response": "Good evening! How can I help you?"
+  }
+]

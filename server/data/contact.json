@@ -1,0 +1,22 @@
+[
+  {
+    "category": "contacts",
+    "keywords": ["contact", "contact us", "college contact", "contact details", "reach college"],
+    "response": "You can contact MGM CoET at Plot No. A-09, Sector 62, Noida, Gautam Budh Nagar, Uttar Pradesh-201301, India. The college can be reached at +91-8439025245 or +91-9911287087, and the email addresses are admission@coet.in and admin@coet.in. For complete contact information, visit https://mgmnoida.org/contact-us/"
+  },
+  {
+    "category": "contacts",
+    "keywords": ["phone", "phone number", "mobile", "contact number", "call", "telephone"],
+    "response": "The contact numbers of MGM CoET are +91-8439025245 and +91-9911287087. For complete contact information, visit https://mgmnoida.org/contact-us/"
+  },
+  {
+    "category": "contacts",
+    "keywords": ["email", "email id", "mail", "email address", "admission email"],
+    "response": "You can contact MGM CoET through admission@coet.in for admission-related queries and admin@coet.in for administrative queries. For complete contact information, visit https://mgmnoida.org/contact-us/"
+  },
+  {
+    "category": "contacts",
+    "keywords": ["address", "location", "college address", "where is college", "where is mgm"],
+    "response": "MGM CoET is located at Plot No. A-09, Sector 62, Noida, Gautam Budh Nagar, Uttar Pradesh-201301, India. For complete location and contact information, visit https://mgmnoida.org/contact-us/"
+  }
+]

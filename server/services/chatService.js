@@ -1,17 +1,31 @@
-const { searchKnowledge } = require("./knowledgeService");
+const databaseService = require("./databaseService");
 const { askGemini } = require("./geminiService");
+const { formatResponse } = require("./responseFormatter");
 
 async function getResponse(message) {
 
-    const replies = await searchKnowledge(message);
+    const collections = [
+        "greetings",
+        "admission",
+        "departments",
+        "placement",
+        "about",
+        "notices",
+        "committees",
+        "contacts"
+    ];
 
-    if (replies.length > 0) {
-        return replies.join("\n\n");
+    for (const collection of collections) {
+        const result = await databaseService.search(collection, message);
+
+        if (result) {
+            return formatResponse(result);
+        }
     }
 
     return await askGemini(message);
 }
 
 module.exports = {
-    getResponse
+    getResponse,
 };

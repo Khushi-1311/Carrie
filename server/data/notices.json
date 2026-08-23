@@ -1,0 +1,17 @@
+[
+  {
+    "category": "notices",
+    "keywords": ["notice", "notices", "latest notice", "college notice", "announcement", "announcements", "updates", "college updates"],
+    "response": "You can find the latest college updates, announcements, academic information, events, and other important information on the MGM CoET blog and updates page. For the latest updates, visit https://mgmnoida.org/blog/"
+  },
+  {
+    "category": "notices",
+    "keywords": ["news", "latest news", "college news", "news updates"],
+    "response": "MGM CoET publishes information and updates related to engineering education, campus activities, career opportunities, and other college-related developments through its blog. For the latest news and updates, visit https://mgmnoida.org/blog/"
+  },
+  {
+    "category": "notices",
+    "keywords": ["events", "college events", "event updates", "activities", "campus activities"],
+    "response": "Information about college activities, events, educational initiatives, and other developments can be found through the MGM CoET blog. For event-related updates, visit https://mgmnoida.org/blog/"
+  }
+]

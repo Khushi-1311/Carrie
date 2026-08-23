@@ -1,0 +1,22 @@
+[
+  {
+    "category": "about",
+    "keywords": ["about", "about college", "college", "mgm college", "mgm coet", "about mgm"],
+    "response": "MGM's College of Engineering and Technology (MGM CoET), Noida is an engineering institution focused on providing quality technical education, developing professional skills, and preparing students for successful careers in the engineering and technology fields. For complete information about the college, visit https://mgmnoida.org/about-us/"
+  },
+  {
+    "category": "about",
+    "keywords": ["vision", "vision of college", "college vision"],
+    "response": "MGM CoET aims to promote quality technical education, innovation, professional development, and overall growth of students while preparing them to meet the changing requirements of industry and society. For more information, visit https://mgmnoida.org/about-us/"
+  },
+  {
+    "category": "about",
+    "keywords": ["mission", "college mission", "mission of college"],
+    "response": "The mission of MGM CoET focuses on providing quality engineering education, developing technical and professional competencies, encouraging innovation, and preparing students to contribute effectively to industry and society. For more information, visit https://mgmnoida.org/about-us/"
+  },
+  {
+    "category": "about",
+    "keywords": ["engineering college", "technical education", "education", "institute"],
+    "response": "MGM CoET provides engineering and technology education through undergraduate programs in multiple disciplines, with emphasis on technical knowledge, practical learning, professional skills, and career development. For complete information, visit https://mgmnoida.org/about-us/"
+  }
+]

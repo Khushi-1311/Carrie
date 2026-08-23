@@ -1,0 +1,42 @@
+[
+  {
+    "category": "departments",
+    "keywords": ["computer science", "cse", "computer science engineering", "cs department"],
+    "response": "The Department of Computer Science and Engineering at MGM CoET focuses on computer science education, programming, software development, algorithms, databases, networking, and emerging technologies. The department offers the B.Tech Computer Science and Engineering program. https://mgmnoida.org/computer-science-engineering/"
+  },
+  {
+    "category": "departments",
+    "keywords": ["ai", "artificial intelligence", "machine learning", "ai ml", "artificial intelligence and machine learning"],
+    "response": "The Department of Computer Science and Engineering (Artificial Intelligence & Machine Learning) focuses on artificial intelligence, machine learning, intelligent systems, data-driven technologies, and modern computing applications. The department offers the B.Tech CSE (AI & ML) program. https://mgmnoida.org/computer-science-engineering-ai-ml/"
+  },
+  {
+    "category": "departments",
+    "keywords": ["data science", "cse data science", "data analytics", "data"],
+    "response": "The Department of Computer Science and Engineering (Data Science) focuses on data analysis, data-driven technologies, machine learning, statistical methods, and computational techniques for extracting useful insights from data. The department offers the B.Tech CSE (Data Science) program. https://mgmnoida.org/computer-science-engineering-data-science/"
+  },
+  {
+    "category": "departments",
+    "keywords": ["robotics", "robotics automation", "automation", "robotics and automation"],
+    "response": "The Department of Robotics and Automation focuses on robotics, automation technologies, intelligent machines, control systems, and modern industrial applications. The department offers the B.Tech Robotics and Automation program. https://mgmnoida.org/robotics-automation-engineering/"
+  },
+  {
+    "category": "departments",
+    "keywords": ["mechanical", "mechanical engineering", "mechanical department"],
+    "response": "The Department of Mechanical Engineering focuses on mechanical systems, manufacturing, design, thermal engineering, production, and engineering applications. The department offers the B.Tech Mechanical Engineering program. https://mgmnoida.org/mechanical-engineering/"
+  },
+  {
+    "category": "departments",
+    "keywords": ["civil", "civil engineering", "civil department"],
+    "response": "The Department of Civil Engineering focuses on construction, structural engineering, infrastructure, transportation, environmental engineering, and other areas related to civil engineering. The department offers the B.Tech Civil Engineering program. https://mgmnoida.org/civil-engineering/"
+  },
+  {
+    "category": "departments",
+    "keywords": ["electronics", "communication", "ece", "electronics and communication", "electronics communication engineering"],
+    "response": "The Department of Electronics and Communication Engineering focuses on electronics, communication systems, digital technologies, embedded systems, and modern communication applications. The department offers the B.Tech Electronics and Communication Engineering program. https://mgmnoida.org/electronics-and-communication/"
+  },
+  {
+    "category": "departments",
+    "keywords": ["applied science", "humanities", "applied science and humanities", "science", "humanities department"],
+    "response": "The Department of Applied Science and Humanities provides foundational education in science, mathematics, communication, humanities, and related subjects that support students across engineering programs. https://mgmnoida.org/applied-science-humanities/"
+  }
+]
